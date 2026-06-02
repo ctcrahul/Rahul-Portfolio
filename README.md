@@ -4,17 +4,3 @@
 
 A modern and responsive portfolio showcasing my skills, projects, certifications, and achievements in Artificial Intelligence, Machine Learning, and Web Development.
 
-## 🛠 Tech Stack
-React • TypeScript • Vite • Tailwind CSS • Framer Motion
-
-## 🚀 Featured Projects
-- AI Based Fake News Detection
-- Health AI Assistant
-- DoubtDispell
-- Skill Swap Platform
-- Student Record Management System
-
-## 📫 Connect
-GitHub: https://github.com/ctcrahul
-LinkedIn: Your LinkedIn Profile
-Email: rahulsingh51775177@gmail.com

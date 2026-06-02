@@ -1,0 +1,6 @@
+{
+  "name": "Rahul Singh Portfolio",
+  "description": "Modern, interactive portfolio website for Rahul Singh - AI & ML Student and Developer. Features light/dark mode, scroll animations, responsive design, project gallery, and interactive contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
